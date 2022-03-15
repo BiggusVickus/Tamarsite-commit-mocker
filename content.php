@@ -1,3 +1,3 @@
 <?php
-        echo "tykkd";
+        echo "ireus";
 ?>
