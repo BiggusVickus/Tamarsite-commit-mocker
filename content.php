@@ -18,5 +18,4 @@
         echo "rpopw";
         echo "igrqb";
         echo "xayui";
-        echo "ihxpi";
 ?>
