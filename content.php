@@ -25,5 +25,5 @@
         echo "lsnmc";
         echo "qvexa";
         echo "fkorm";
-        echo "itorq";
+        echo "wlpoq";
 ?>
