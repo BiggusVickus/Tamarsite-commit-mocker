@@ -27,5 +27,4 @@
         echo "fkorm";
         echo "ltijw";
         echo "ydvbr";
-        echo "yrits";
 ?>
