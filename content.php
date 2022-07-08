@@ -30,6 +30,5 @@
         echo "dpdih";
         echo "xxibt";
         echo "jgyaq";
-        echo "pxesd";
-        echo "uekqm";
+        echo "wrsor";
 ?>
