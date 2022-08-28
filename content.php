@@ -43,5 +43,4 @@
         echo "ohvaa";
         echo "kbpjd";
         echo "xsajv";
-        echo "hqqwk";
 ?>
