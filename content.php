@@ -43,5 +43,4 @@
         echo "ohvaa";
         echo "getex";
         echo "qwnbj";
-        echo "aacag";
 ?>
