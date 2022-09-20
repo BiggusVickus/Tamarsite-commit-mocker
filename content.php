@@ -42,5 +42,4 @@
         echo "nqori";
         echo "ohvaa";
         echo "grhqa";
-        echo "gnpoy";
 ?>
