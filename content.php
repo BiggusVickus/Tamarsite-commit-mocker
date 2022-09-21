@@ -43,5 +43,6 @@
         echo "ohvaa";
         echo "vghnx";
         echo "pmagn";
-        echo "krhkl";
+        echo "pratn";
+        echo "iklwb";
 ?>
