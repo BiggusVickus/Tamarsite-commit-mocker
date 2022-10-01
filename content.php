@@ -47,5 +47,4 @@
         echo "jwpss";
         echo "ydvih";
         echo "tbgud";
-        echo "nugyw";
 ?>
