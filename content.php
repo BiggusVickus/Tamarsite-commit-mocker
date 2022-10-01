@@ -46,7 +46,5 @@
         echo "pratn";
         echo "jwpss";
         echo "ydvih";
-        echo "sbhtt";
-        echo "cyblo";
-        echo "enoel";
+        echo "qrtvn";
 ?>
