@@ -49,5 +49,4 @@
         echo "wqhti";
         echo "ottdi";
         echo "mtmln";
-        echo "kmare";
 ?>
