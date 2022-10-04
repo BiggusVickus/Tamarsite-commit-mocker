@@ -7,7 +7,11 @@ repo1 = git.Repo("C:/Users/vicpi/Documents/GitHub/Tamarel")
 repo2 = git.Repo("C:/Users/vicpi/Documents/GitHub/website-vv-tamar")
 # Your mock repo
 mock_repo = git.Repo("C:/Users/vicpi/Documents/GitHub/Tamarsite-commit-mocker")
-importer = Importer([repo], mock_repo)
+importer1 = Importer([repo1], mock_repo)
+importer2 = Importer([repo2], mock_repo)
 # I use both my personal email and work email here,
 # Since the private repo uses work email, and Github uses my personal email
-importer.import_repository()
+importer1.set_author(['myprivateemail@email.com', 'myvolleyballemail@email.com'])
+importer1.import_repository()
+importer2.set_author(['myprivateemail@email.com', 'myvolleyballemail@email.com'])
+importer2.import_repository()
