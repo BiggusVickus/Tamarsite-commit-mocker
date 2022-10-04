@@ -4,6 +4,8 @@ The aim of this repository is to report in GitHub contributions coming from othe
 
 It has been automatically created using Miro Mannino's [Contributions Importer for GitHub](https://github.com/miromannino/contributions-importer-for-github)
 
+This mock repo is to track my commits to my volleyball assosiation's website: www.vvtamar.nl
+
 ## Notice
 
 The content of this repository contains mock code. This prevents private source code to be leaked. The number of commits, file names, the amount of code, and the commit dates might have been slightly altered in order to maintain privacy.
