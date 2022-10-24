@@ -54,5 +54,4 @@
         echo "fotgs";
         echo "taalt";
         echo "rhkhi";
-        echo "mvkur";
 ?>
