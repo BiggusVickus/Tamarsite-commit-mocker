@@ -11,7 +11,9 @@ importer1 = Importer([repo1], mock_repo)
 importer2 = Importer([repo2], mock_repo)
 # I use both my personal email and work email here,
 # Since the private repo uses work email, and Github uses my personal email
-importer1.set_author(['myprivateemail@email.com', 'myvolleyballemail@email.com'])
+importer1.set_author(['vicpias@yahoo.com', 'victor@vvtamar.nl'])
+importer1.set_ignore_before_date(1687305600) # next time running this, change this to 2023-11-22 03:54:00 into UTC epoch time
 importer1.import_repository()
-importer2.set_author(['myprivateemail@email.com', 'myvolleyballemail@email.com'])
+importer2.set_author(['vicpias@yahoo.com', 'victor@vvtamar.nl'])
+importer2.set_ignore_before_date(1687305600)
 importer2.import_repository()
