@@ -96,5 +96,4 @@
         echo "pudvo";
         echo "vlaoq";
         echo "ldvnt";
-        echo "xyfma";
 ?>
