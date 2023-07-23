@@ -15,4 +15,5 @@ importer1.set_author(['myprivateemail@email.com', 'myvolleyballemail@email.com']
 importer1.set_ignore_before_date(1687305600) # next time running this, change this to 2023-11-22 03:54:00 into UTC epoch time
 importer1.import_repository()
 importer2.set_author(['myprivateemail@email.com', 'myvolleyballemail@email.com'])
+importer2.set_ignore_before_date(1687305600)
 importer2.import_repository()
