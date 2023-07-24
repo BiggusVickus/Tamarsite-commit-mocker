@@ -121,4 +121,6 @@
         echo "gyraa";
         echo "vopnn";
         echo "vroox";
+        echo "ltusb";
+        echo "odlts";
 ?>
