@@ -130,5 +130,4 @@
         echo "rtqig";
         echo "pxtfi";
         echo "eiupi";
-        echo "kksvy";
 ?>
