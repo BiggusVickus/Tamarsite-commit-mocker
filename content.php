@@ -129,5 +129,4 @@
         echo "hxemc";
         echo "rtqig";
         echo "pxtfi";
-        echo "itbqq";
 ?>
