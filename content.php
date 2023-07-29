@@ -142,5 +142,4 @@
         echo "ihfbd";
         echo "ruceo";
         echo "miwcc";
-        echo "wlady";
 ?>
